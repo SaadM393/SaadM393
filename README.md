@@ -54,6 +54,8 @@
 
 ### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-5382A1?style=for-the-badge)
 
@@ -94,11 +96,11 @@ A healthcare management application focused on managing healthcare-related infor
 A frontend-based product exploration dashboard built to display and explore product information using JavaScript.
 
 **Tech Stack:**
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js`
 
 ✅ Project Completed
 
-🔗 GitHub repository link will be added here
+🔗 [View Project on GitHub](https://github.com/SaadM393/product-explorer-dashboard)
 
 ---
 
